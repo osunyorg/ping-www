@@ -22,4 +22,32 @@ items:
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
+- title: Offres d'emploi
+  target: "/offres-d-emploi/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/jobs"
+  file: content/fr/jobs/_index.html
+- title: Agenda
+  target: "/agenda/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/events"
+  file: content/fr/events/_index.html
+- title: Expositions
+  target: "/expositions/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/exhibitions"
+  file: content/fr/exhibitions/_index.html
+- title: A propos
+  target: "/a-propos/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/a-propos"
+  file: content/fr/pages/a-propos/_index.html
 
