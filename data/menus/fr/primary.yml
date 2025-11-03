@@ -8,6 +8,13 @@ items:
   children: []
   path: "/exhibitions"
   file: content/fr/exhibitions/_index.html
+- title: Projets
+  target: "/projets/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/projects"
+  file: content/fr/projects/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -43,13 +50,6 @@ items:
   children: []
   path: "/events"
   file: content/fr/events/_index.html
-- title: Projets
-  target: "/projets/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/projects"
-  file: content/fr/projects/_index.html
 - title: A propos
   target: "/a-propos/"
   kind: page
