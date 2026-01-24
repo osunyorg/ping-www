@@ -1,13 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Expositions
-  target: "/expositions/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/exhibitions"
-  file: content/fr/exhibitions/_index.html
 - title: Offres d'emploi
   target: "/offres-d-emploi/"
   kind: page
@@ -43,6 +36,13 @@ items:
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
+- title: Expositions
+  target: "/expositions/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/exhibitions"
+  file: content/fr/exhibitions/_index.html
 - title: Projets
   target: "/projets/"
   kind: page
